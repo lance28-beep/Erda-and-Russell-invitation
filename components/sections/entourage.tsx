@@ -243,10 +243,10 @@ export function Entourage() {
           {/* Flower Girls */}
           <TwoColumnLayout singleTitle="Flower Girls" centerContent={true}>
             {[
-              "Kirsten Elija Leyson",
+              "Kirsten Elijah Leyson",
               "Blake Juan",
               "Reign Arastel Rivera",
-              "Paige Yael Ticbaen (Little Bride)",
+              "Paige Yael Ticbaen",
             ].map((name, idx) => (
               <div key={idx}>
                 <NameItem name={name} />
