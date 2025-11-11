@@ -116,9 +116,9 @@ export function Entourage() {
           <span className="absolute inset-0 text-[#BB8A3D]/20 blur-2xl -z-10">Wedding Entourage</span>
         </h2>
 
-        <h3 className="text-2xl sm:text-3xl md:text-4xl font-serif font-semibold text-[#BB8A3D] mb-3 sm:mb-4">
+        {/* <h3 className="text-2xl sm:text-3xl md:text-4xl font-serif font-semibold text-[#BB8A3D] mb-3 sm:mb-4">
           Organizational Chart
-        </h3>
+        </h3> */}
 
         {/* Bottom decorative ornaments */}
         <div className="flex items-center justify-center gap-6 mt-8">
