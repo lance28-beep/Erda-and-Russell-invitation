@@ -68,11 +68,11 @@ export const entourage = [
 
   // Parents of the Bride
   { role: "Father", name: "Jaime Balajadia (Uncle)", group: "kate-family" },
-  { role: "Mother", name: "Eloida Ricohermoso", group: "kate-family" },
+  { role: "Mother", name: "Eloida Balajadia Ricohermoso ", group: "kate-family" },
 
   // Parents of the Groom
   { role: "Brother", name: "Perry Ticbaen (Brother)", group: "christian-family" },
-  { role: "Mother", name: "Felicitas Ticbaen", group: "christian-family" },
+  { role: "Mother", name: "Felicitas Dosdos Ticbaen", group: "christian-family" },
 
   // Bridesmaids
   { role: "Bridesmaid", name: "Thea Lynn Dela Cruz" },

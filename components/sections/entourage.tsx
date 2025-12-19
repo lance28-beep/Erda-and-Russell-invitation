@@ -151,12 +151,14 @@ export function Entourage() {
           {/* Parents of the Bride and Groom */}
           <TwoColumnLayout leftTitle="Parents of the Bride" rightTitle="Parents of the Groom">
             <div className="space-y-3">
+            <NameItem name="Eloida Balajadia Ricohermoso" />
               <NameItem name="Federico Ricohermoso (+)" />
-              <NameItem name="Eloida Ricohermoso" />
+
             </div>
             <div className="space-y-3">
+            <NameItem name="Felicitas Dosdos Ticbaen" />
               <NameItem name="Valentine Moyongan Ticbaen (+)" />
-              <NameItem name="Felicitas Ticbaen" />
+
             </div>
           </TwoColumnLayout>
 
