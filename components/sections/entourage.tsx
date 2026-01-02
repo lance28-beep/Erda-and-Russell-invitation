@@ -173,7 +173,7 @@ export function Entourage() {
               <NameItem name="Imeeliza Timpug" />
             </div>
             <div>
-              <NameItem name="Red Casallo" />
+              <NameItem name="Jenoh Egino" />
             </div>
           </TwoColumnLayout>
 
@@ -190,7 +190,7 @@ export function Entourage() {
                 "Keara Zane A Cariño",
                 "Fiona Padallan",
                 "Lorna Ladisla",
-                "Carmen Pascual",
+                "Joe-Ann Rose Libanan",
                 "Ciodie Manota",
               ].map((name, idx) => (
                 <NameItem key={idx} name={name} />
@@ -200,8 +200,8 @@ export function Entourage() {
               {[
                 "Myric Mateo",
                 "Jayson Torquiano",
-                "Jenoh Egino",
-                "Vincent Saguinsin",
+                "Ryan Rivera",
+                "Joshua Bengwasen Colting",
                 "Frederick Manota",
                 "Emerson Sulit",
               ].map((name, idx) => (
@@ -259,8 +259,8 @@ export function Entourage() {
           {/* Ring/Coin Bearers */}
           <TwoColumnLayout singleTitle="Ring/Coin Bearers" centerContent={true}>
             {[
-              "Khaleb Dwayne M. Beltran",
-              "Lucas Rhaiden Beltran",
+              "Ralph Noah P. Leyson",
+              "Yeshua Gabriel P. Leyson",
               "Dean James Ticbaen",
             ].map((name, idx) => (
               <div key={idx}>
